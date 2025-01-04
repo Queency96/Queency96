@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Queency96
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning 
+- 👀 I’m a DevOps
+- 🌱 I’m learning in any area 
 - 💞️ I’m looking to collaborate on any topic I can benefit or learn from
 - 📫 How to reach me Queency96@gmail.com
 
